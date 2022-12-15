@@ -1,4 +1,4 @@
-# trinkl
+# This is a Research Project for Thesis of x21154589 of NCI-Msc in Cloud Computing 
 
 ## Goal
 
