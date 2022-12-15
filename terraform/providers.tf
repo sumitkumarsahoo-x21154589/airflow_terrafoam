@@ -4,6 +4,6 @@ terraform {
 
 provider "aws" {
   region = var.aws_region
-  access_key = "AKIAXLJZTDDBIRWXUFEH"
-  secret_key = "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"
+  access_key = ""#removed accesskey , due to security reason , if needed kindly contact x21154589@student.ncirl.ie
+  secret_key = ""#removed accesskey , due to security reason , if needed kindly contact x21154589@student.ncirl.ie
 }
