@@ -29,3 +29,4 @@ sqlalchemy
 tabulate
 webdriver_manager
 xlrd
+pyspark
